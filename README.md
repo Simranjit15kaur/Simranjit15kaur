@@ -2,62 +2,17 @@
 
 # Hi there 👋
 
+<h1 align="center">I'm Simranjit Kaur!</h1>
+
+<h3 align="center">A passionate software engineering student</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=blink&type=waving&color=000000,1a1a1a,333333&height=80" alt="Simranjit Kaur"/>
+  <img src="https://media.tenor.com/7oTzD5zB4fMAAAAd/it-crowd-it.gif" alt="Hello IT. Have you tried turning it of and on again?" />
 </p>
 
-
-<h3 align="center">About Me</h3>
-
-- 🔭 I'm currently working on: **[Describe your most impactful project or research, focusing on problem-solving and scalability.]**
-- 🌱 I'm currently learning: **[Specify a new technology, framework, or core CS concept relevant to your career goals.]**
-- 👯 I'm looking to collaborate on: **[Mention types of open-source projects or innovative ideas you'd contribute to.]**
-- 💬 Ask me about: **[Your areas of expertise, e.g., AI/ML, Python optimization, data structures, cloud platforms.]**
-- 📫 How to reach me: **[Your professional email or a link to your calendly/scheduling tool.]**
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy competitive programming in my free time! **[Make this unique and professional, perhaps related to logical thinking or problem-solving.]**
-
-<h3 align="center">Skills</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <!-- Consider adding badges for C++, Java, Go, Data Structures, Algorithms, Cloud Platforms (GCP) if relevant to your skills and career goals. -->
+  🔭 I'm currently working on AI/ML using Python
 </p>
-
-<h3 align="center">Projects</h3>
-
 <p align="center">
-  Showcase your most impactful projects here. Each project should have its own well-documented repository. Focus on: **Problem solved, your specific contributions, technologies used, technical challenges overcome, and quantifiable impact/results.**
-  <br><br>
-  - [**Project A: Scalable Recommendation System**](link_to_repo_A)<br>
-    Developed a real-time recommendation engine using Python, Flask, and a distributed caching system (Redis). Implemented collaborative filtering algorithms and optimized query response time by 40% through efficient data retrieval.
-  <br><br>
-  - [**Project B: Cloud-Native API Gateway**](link_to_repo_B)<br>
-    Built a secure and highly available API gateway on Google Cloud Platform (GCP) using Go, Kubernetes, and Istio. Designed for microservices communication with authentication and rate-limiting features.
-  <br><br>
-  - [**Project C: Interactive Data Visualization Tool**](link_to_repo_C)<br>
-    Created a web-based data visualization tool with React and D3.js. Enabled users to upload CSV data and generate customizable interactive charts, demonstrating strong front-end development and data handling skills.
-</p>
-
-<h3 align="center">MY CONTRIBUTIONS</h3>
-
-<p align="center">
-  <img src="https://github.com/Simranjit15kaur/Simranjit15kaur/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<h3 align="center">Connect with me</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  🌱 I'm currently learning AI/ML and Data Structures and Algorithms
 </p> 
