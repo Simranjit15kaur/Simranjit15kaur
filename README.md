@@ -1,54 +1,39 @@
-<p align="right">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Simranjit15kaur&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="Simranjit15kaur's profile views"
-    style="vertical-align: middle; margin-right: 10px;"
-  />
-</p>
+<p align="right">Profile views: <img src="https://komarev.com/ghpvc/?username=Simranjit15kaur&label=Profile%20views&color=0e75b6&style=flat" alt="Simranjit15kaur's profile views"/></p>
 
-<div align="center" style="font-family: Arial, sans-serif;">
-  <h1 style="font-size: 3em; color: #2c3e50; margin-bottom: 0.2em;">Hi there 👋</h1>
+# Hi there 👋
 
- <h2 style="font-size: 2.5em; color: #1abc9c;">I'm Simranjit Kaur!</h2>
+<h1 align="center">I'm Simranjit Kaur!</h1>
 
+<h3 align="center">A passionate software engineering student</h3>
 
-  <h3 style="font-size: 1.5em; color: #0000FF; font-weight: normal;">
-    A passionate Software Engineering student 🚀
-  </h3>
-
-  <p style="font-size: 1.1em; color: #555; max-width: 600px; margin: 20px auto;">
-    I love exploring technologies, building projects, and solving problems. I'm currently focused on mastering web development and software engineering principles to create meaningful digital experiences.
-  </p>
-</div>
-
-
-### 🎓 Education
-**Thapar University**, Patiala  
-Bachelor’s in Computer Science Engineering  
-
----
-
-### 💡 About Me
-
-- 🔭 I’m currently working on: AI/ML projects using Python
-- 🌱 Currently learning: Data Structures, Algorithms, and Machine Learning
-- 👯 Looking to collaborate on: Open-source AI/ML projects
-- 💬 Ask me about: Python, AI/ML, or Competitive Programming
-- 📫 Reach me at: `skaur6_be22@thapar.edu`
-- 😄 Pronouns: she/her
----
-
-### 🛠️ Skills
+<h3>Thapar University , Patiala</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  🔭 I'm currently working on AI/ML using Python
+</p>
+<p align="center">
+  🌱 I'm currently learning AI/ML and Data Structures and Algorithms
 </p>
 
----
+<h3 align="center">About Me</h3>
+
+- 🔭 I'm currently working on ... (e.g., a new project, a research paper)
+- 🌱 I'm currently learning ... (e.g., a new programming language, a framework)
+- 👯 I'm looking to collaborate on ... (e.g., open-source projects, interesting ideas)
+- 💬 Ask me about ... (e.g., AI/ML, Python, specific projects)
+- 📫 How to reach me: ... (e.g., your email, social media links)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I enjoy competitive programming in my free time!
+
+<h3 align="center">Skills</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
+
 
 ### 🚀 Projects
 
@@ -62,6 +47,13 @@ Bachelor’s in Computer Science Engineering
 
 - [**☁️ Movie Recommender System**](https://github.com/Simranjit15kaur/MOVIE_RECOMMENDER)  
   Python, Pandas, Streamlit, and Scikit-learn| similar movies based on content similarity using NLP.
+
+
+
+
+
+
+
 
 - [**📊 College Management System**](https://github.com/Simranjit15kaur/College_management)  
   Built using HTML, CSS,PHP, MySQL | A web-based platform to automate faculty scheduling, attendance tracking, leave management, and salary calculation..
