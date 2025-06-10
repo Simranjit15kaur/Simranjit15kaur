@@ -1,15 +1,24 @@
-<p align="right">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Simranjit15kaur&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="Simranjit15kaur's profile views"
-    style="vertical-align: middle; margin-right: 10px;"
-  />
-</p>
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.8em; font-weight: bold;
+  background: linear-gradient(90deg, #1abc9c, #3498db, #9b59b6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: glow 2s ease-in-out infinite alternate;
+  text-shadow: 0 0 5px rgba(26, 188, 156, 0.7);">
 
-<div align="center" style="font-family: Arial, sans-serif;">
-  <h1 style="font-size: 3em; color: #2c3e50; margin-bottom: 0.2em;">Hi there 👋</h1>
+  I'm Simranjit Kaur!
+</div>
 
-  <h2 style="font-size: 2.5em; color: #1abc9c;">I'm Simranjit Kaur!</h2>
+<style>
+  @keyframes glow {
+    from {
+      text-shadow: 0 0 10px #1abc9c, 0 0 20px #1abc9c, 0 0 30px #3498db;
+    }
+    to {
+      text-shadow: 0 0 20px #9b59b6, 0 0 30px #8e44ad, 0 0 40px #3498db;
+    }
+  }
+</style>
+
 
   <h3 style="font-size: 1.5em; color: #34495e; font-weight: normal;">
     A passionate Software Engineering student 🚀
