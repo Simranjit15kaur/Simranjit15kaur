@@ -4,8 +4,6 @@
 
 <h1>Simranjit Kaur</h1>
 
-<h3>Thapar University , Patiala</h3>
-
 <h3 align="center">About Me</h3>
 
 - 🔭 I'm currently working on ... (e.g., a new project, a research paper)
@@ -28,14 +26,8 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simranjit15kaur&show_icons=true&theme=radical" alt="Simranjit15kaur's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simranjit15kaur&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<h3 align="center">GitHub Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://github.com/Simranjit15kaur/Simranjit15kaur/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Simranjit15kaur&show_icons=true&theme=vue-dark" alt="Simranjit15kaur's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simranjit15kaur&layout=compact&theme=vue-dark" alt="Top Languages" />
 </p>
 
 <h3 align="center">Connect with me</h3>
@@ -50,4 +42,14 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<h3 align="center">Projects</h3>
+
+<p align="center">
+  List your key projects here, with links and brief descriptions.  
+  For example:
+  - [**Project Name 1**](link_to_repo): A brief description of Project 1.
+  - [**Project Name 2**](link_to_repo): A brief description of Project 2.
+  - [**Project Name 3**](link_to_repo): A brief description of Project 3.
 </p> 
