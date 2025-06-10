@@ -1,10 +1,10 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Simranjit15kaur&label=Profile%20views&color=0e75b6&style=flat" alt="Simranjit15kaur's profile views"/>
-</p>
+<p align="right">Profile views: <img src="https://komarev.com/ghpvc/?username=Simranjit15kaur&label=Profile%20views&color=0e75b6&style=flat" alt="Simranjit15kaur's profile views"/></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=fadeIn&type=waving&color=0e75b6&height=100&fontColor=ffffff&fontSize=30" alt="Simranjit Kaur"/>
-</p>
+# Hi there 👋
+
+<h1 align="center">I'm Simranjit Kaur!</h1>
+
+<h3 align="center">A passionate software engineering student</h3>
 
 <h3 align="center">👩‍💻 Software Engineering Student | AI/ML Enthusiast | Competitive Programmer</h3>
 
@@ -22,10 +22,8 @@ Bachelor’s in Computer Science Engineering
 - 🌱 Currently learning: Data Structures, Algorithms, and Machine Learning
 - 👯 Looking to collaborate on: Open-source AI/ML projects
 - 💬 Ask me about: Python, AI/ML, or Competitive Programming
-- 📫 Reach me at: `your-email@example.com`
+- 📫 Reach me at: `skaur6_be22@thapar.edu`
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy solving complex problems just for fun!
-
 ---
 
 ### 🛠️ Skills
@@ -44,14 +42,18 @@ Bachelor’s in Computer Science Engineering
 
 > 🔗 Click on project titles to explore repositories.
 
-- [**📊 Scalable Recommendation System**](https://github.com/yourusername/project-repo-A)  
-  Built using Python, Flask & Redis | Improved response time by 40% using collaborative filtering.
+- [**📈Cheating Detection in Online Interview**](https://github.com/Simranjit15kaur/TOPSIS2)  
+  Developed with OpenCV & YOLOv5 |monitor candidates in real-time and detect suspicious behavior indicative of cheating.
 
-- [**☁️ Cloud-Native API Gateway**](https://github.com/yourusername/project-repo-B)  
-  Deployed on GCP using Go, Kubernetes, Istio | Enabled authentication & rate-limiting.
+- [**📈Python Package Creation**](https://github.com/Simranjit15kaur/TOPSIS2)  
+  Installation : pip install TOPSIS-Simranjit-102216033==0.0.1
 
-- [**📈 Interactive Data Visualization Tool**](https://github.com/yourusername/project-repo-C)  
-  Developed with React & D3.js | Users upload CSVs and create live charts.
+- [**☁️ Movie Recommender System**](https://github.com/Simranjit15kaur/MOVIE_RECOMMENDER)  
+  Python, Pandas, Streamlit, and Scikit-learn| similar movies based on content similarity using NLP.
+
+- [**📊 College Management System**](https://github.com/Simranjit15kaur/College_management)  
+  Built using HTML, CSS,PHP, MySQL | A web-based platform to automate faculty scheduling, attendance tracking, leave management, and salary calculation..
+  
 
 ---
 
