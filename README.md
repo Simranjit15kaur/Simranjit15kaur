@@ -3,7 +3,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=slide&type=waving&color=gradient&gradient=ff7e5f,feb47b&height=100&fontColor=000000&fontSize=30&font=balsamiq" alt="Simranjit Kaur"/>
+  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=shade&type=slice&color=gradient&gradient=ff00cc,3333ff&height=180&fontColor=ffffff&fontSize=65&font=balsamiq" alt="Simranjit Kaur"/>
 </p>
 
 <h3 align="center">A passionate software engineering student</h3>
@@ -15,6 +15,36 @@
 </p>
 <p align="center">
   🌱 I'm currently learning AI/ML and Data Structures and Algorithms
+</p>
+
+---
+
+<h3 align="center">About Me</h3>
+
+- 🔭 I'm currently working on developing scalable machine learning solutions.
+- 🌱 I'm currently learning advanced topics in distributed systems and cloud architecture (GCP).
+- 👯 I'm looking to collaborate on open-source projects related to AI ethics and data privacy.
+- 💬 Ask me about: Python, AI/ML, data structures, and competitive programming.
+- 📫 How to reach me: via LinkedIn or email.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I once wrote a script to automate my daily routine, but it ended up taking longer to write than the tasks themselves!
+
+---
+
+<h3 align="center">✨ Skills & Technologies</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.google.com/search?q=pandas+badge&tbm=isch&ved=2ahUKEwj7iKqCq4WGAxWhuokEHf-qDssQ2-cCegQIABAA&oq=pandas+badge&gs_lcp=CgNnbXfSAQgwLjg0Nzk1Nzg3&sclient=img&ei=l7R1Zpi5NqHqseEP_9W62Aw&bih=756&biw=1440#imgrc=150458&imgdii=D14836" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" />
 </p>
 
 ---
@@ -34,6 +64,14 @@
 
 - [**🏫 College Management System**](https://github.com/Simranjit15kaur/College_management)  
   Built using HTML, CSS,PHP, MySQL | A web-based platform to automate faculty scheduling, attendance tracking, leave management, and salary calculation..
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Simranjit15kaur&theme=darkhub" alt="Simranjit15kaur's GitHub Trophies" />
+</p>
 
 ---
 
