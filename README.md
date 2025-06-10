@@ -3,7 +3,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=pulse&type=slice&color=gradient&gradient=ff66b2,66b2ff&height=380&fontColor=000000&fontSize=100&font=Press+Start+2P" alt="Simranjit Kaur"/>
+  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=pulse&type=slice&color=gradient&gradient=1a0000,00001a&height=380&fontColor=00ff00&fontSize=100&font=Press+Start+2P" alt="Simranjit Kaur"/>
 </p>
 
 <h3 align="center">A passionate software engineering student</h3>
@@ -171,7 +171,8 @@
 ### 🐍 GitHub Contributions
 
 <p align="center">
-  <img src="https://github.com/Simranjit15kaur/Simranjit15kaur/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Simranjit15kaur&show_icons=true&theme=dark" alt="Simranjit15kaur's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simranjit15kaur&layout=compact&theme=dark" alt="Simranjit15kaur's Top Languages"/>
 </p>
 
 ---
