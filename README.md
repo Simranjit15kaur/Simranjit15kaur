@@ -2,7 +2,11 @@
 
 # Hi there 👋
 
-<h1>Simranjit Kaur</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=fadeIn&type=waving&color=gradient&height=80" alt="Simranjit Kaur"/>
+</p>
+
+<h3>Thapar University , Patiala</h3>
 
 <h3 align="center">About Me</h3>
 
@@ -11,8 +15,8 @@
 - 👯 I'm looking to collaborate on ... (e.g., open-source projects, interesting ideas)
 - 💬 Ask me about ... (e.g., AI/ML, Python, specific projects)
 - 📫 How to reach me: ... (e.g., your email, social media links)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her
+
 
 <h3 align="center">Skills</h3>
 
@@ -23,12 +27,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simranjit15kaur&show_icons=true&theme=vue-dark" alt="Simranjit15kaur's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simranjit15kaur&layout=compact&theme=vue-dark" alt="Top Languages" />
-</p>
+<h3 align="center">MY CONTRIBUTIONS</h3>
 
 <h3 align="center">Connect with me</h3>
 
