@@ -3,7 +3,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=waving&type=waving&color=gradient&gradient=ff0099,00e6e6&height=80&fontColor=ffffff&fontSize=30" alt="Simranjit Kaur"/>
+  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=fadeIn&type=waving&color=gradient&gradient=83a4d4,d4a4d4&height=100&fontColor=000000&fontSize=30&font=balsamiq" alt="Simranjit Kaur"/>
 </p>
 
 <h3 align="center">A passionate software engineering student</h3>
@@ -15,26 +15,6 @@
 </p>
 <p align="center">
   🌱 I'm currently learning AI/ML and Data Structures and Algorithms
-</p>
-
-<h3 align="center">About Me</h3>
-
-- 🔭 I'm currently working on ... (e.g., a new project, a research paper)
-- 🌱 I'm currently learning ... (e.g., a new programming language, a framework)
-- 👯 I'm looking to collaborate on ... (e.g., open-source projects, interesting ideas)
-- 💬 Ask me about ... (e.g., AI/ML, Python, specific projects)
-- 📫 How to reach me: ... (e.g., your email, social media links)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy competitive programming in my free time!
-
-<h3 align="center">Skills</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <!-- Consider adding badges for C++, Java, Go, Data Structures, Algorithms, Cloud Platforms (GCP) if relevant to your skills and career goals. -->
 </p>
 
 ### 🚀 Projects
