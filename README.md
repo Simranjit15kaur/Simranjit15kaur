@@ -9,20 +9,10 @@
 <div align="center" style="font-family: Arial, sans-serif;">
   <h1 style="font-size: 3em; color: #2c3e50; margin-bottom: 0.2em;">Hi there 👋</h1>
 
-  <div class="header">
-  <h2>Header</h2>
-  <p>My supercool header</p>
-</div>
-  .header {
-  padding: 60px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
-}
+ <h2 style="font-size: 2.5em; color: #1abc9c;">I'm Simranjit Kaur!</h2>
 
 
-  <h3 style="font-size: 1.5em; color: #34495e; font-weight: normal;">
+  <h3 style="font-size: 1.5em; color: #0000FF; font-weight: normal;">
     A passionate Software Engineering student 🚀
   </h3>
 
