@@ -2,7 +2,9 @@
 
 # Hi there 👋
 
-<h1 align="center">I'm Simranjit Kaur!</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=waving&type=waving&color=gradient&gradient=ff0099,00e6e6&height=80&fontColor=ffffff&fontSize=30" alt="Simranjit Kaur"/>
+</p>
 
 <h3 align="center">A passionate software engineering student</h3>
 
@@ -32,8 +34,8 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <!-- Consider adding badges for C++, Java, Go, Data Structures, Algorithms, Cloud Platforms (GCP) if relevant to your skills and career goals. -->
 </p>
-
 
 ### 🚀 Projects
 
@@ -42,22 +44,14 @@
 - [**📈Cheating Detection in Online Interview**](https://github.com/Simranjit15kaur/TOPSIS2)  
   Developed with OpenCV & YOLOv5 |monitor candidates in real-time and detect suspicious behavior indicative of cheating.
 
-- [**📈Python Package Creation**](https://github.com/Simranjit15kaur/TOPSIS2)  
+- [**📦 Python Package Creation**](https://github.com/Simranjit15kaur/TOPSIS-Simranjit-102216033)  
   Installation : pip install TOPSIS-Simranjit-102216033==0.0.1
 
-- [**☁️ Movie Recommender System**](https://github.com/Simranjit15kaur/MOVIE_RECOMMENDER)  
+- [**🎬 Movie Recommender System**](https://github.com/Simranjit15kaur/MOVIE_RECOMMENDER)  
   Python, Pandas, Streamlit, and Scikit-learn| similar movies based on content similarity using NLP.
 
-
-
-
-
-
-
-
-- [**📊 College Management System**](https://github.com/Simranjit15kaur/College_management)  
+- [**🏫 College Management System**](https://github.com/Simranjit15kaur/College_management)  
   Built using HTML, CSS,PHP, MySQL | A web-based platform to automate faculty scheduling, attendance tracking, leave management, and salary calculation..
-  
 
 ---
 
