@@ -1,14 +1,25 @@
-<p align="right">Profile views: <img src="https://komarev.com/ghpvc/?username=Simranjit15kaur&label=Profile%20views&color=0e75b6&style=flat" alt="Simranjit15kaur's profile views"/></p>
+<p align="right">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Simranjit15kaur&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="Simranjit15kaur's profile views"
+    style="vertical-align: middle; margin-right: 10px;"
+  />
+</p>
 
-# Hi there 👋
+<div align="center" style="font-family: Arial, sans-serif;">
+  <h1 style="font-size: 3em; color: #2c3e50; margin-bottom: 0.2em;">Hi there 👋</h1>
 
-<h1 align="center">I'm Simranjit Kaur!</h1>
+  <h2 style="font-size: 2.5em; color: #1abc9c;">I'm Simranjit Kaur!</h2>
 
-<h3 align="center">A passionate software engineering student</h3>
+  <h3 style="font-size: 1.5em; color: #34495e; font-weight: normal;">
+    A passionate Software Engineering student 🚀
+  </h3>
 
-<h3 align="center">👩‍💻 Software Engineering Student | AI/ML Enthusiast | Competitive Programmer</h3>
+  <p style="font-size: 1.1em; color: #555; max-width: 600px; margin: 20px auto;">
+    I love exploring technologies, building projects, and solving problems. I'm currently focused on mastering web development and software engineering principles to create meaningful digital experiences.
+  </p>
+</div>
 
----
 
 ### 🎓 Education
 **Thapar University**, Patiala  
