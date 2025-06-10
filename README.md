@@ -3,7 +3,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=fadeIn&type=waving&color=gradient&gradient=83a4d4,d4a4d4&height=100&fontColor=000000&fontSize=30&font=balsamiq" alt="Simranjit Kaur"/>
+  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=slide&type=waving&color=gradient&gradient=ff7e5f,feb47b&height=100&fontColor=000000&fontSize=30&font=balsamiq" alt="Simranjit Kaur"/>
 </p>
 
 <h3 align="center">A passionate software engineering student</h3>
@@ -16,6 +16,8 @@
 <p align="center">
   🌱 I'm currently learning AI/ML and Data Structures and Algorithms
 </p>
+
+---
 
 ### 🚀 Projects
 
