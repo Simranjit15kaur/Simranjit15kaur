@@ -1,6 +1,4 @@
-
-
-# Hi there 👋
+ # Hi there 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=pulse&type=slice&color=gradient&gradient=ff00ff,00ffff&height=380&fontColor=000000&fontSize=100&font=Press+Start+2P" alt="Simranjit Kaur"/>
