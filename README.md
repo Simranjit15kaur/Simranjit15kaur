@@ -3,7 +3,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=fadeIn&type=waving&color=gradient&height=80" alt="Simranjit Kaur"/>
+  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=fadeIn&type=waving&color=000000,1a1a1a,333333&height=80" alt="Simranjit Kaur"/>
 </p>
 
 <h3>Thapar University , Patiala</h3>
