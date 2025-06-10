@@ -1,4 +1,4 @@
-<h1 align="center">I'm J</h1>
+<h1 align="center">I'm Simranjit Kaur</h1>
 
 <h3 align="center">A passionate software engineering student</h3>
 
