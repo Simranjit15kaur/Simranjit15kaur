@@ -2,10 +2,20 @@
 
 # Hi there 👋
 
-<h1 align="center">I'm Simranjit Kaur!</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=float&type=waving&color=000000,1a1a1a,333333&height=80" alt="Simranjit Kaur"/>
+</p>
 
 <h3 align="center">A passionate software engineering student</h3>
 
+<h3>Thapar University , Patiala</h3>
+
+<p align="center">
+  🔭 I'm currently working on AI/ML using Python
+</p>
+<p align="center">
+  🌱 I'm currently learning AI/ML and Data Structures and Algorithms
+</p>
 
 <h3 align="center">About Me</h3>
 
