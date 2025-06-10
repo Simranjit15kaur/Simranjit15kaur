@@ -3,7 +3,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=shade&type=slice&color=gradient&gradient=ff00cc,3333ff&height=180&fontColor=ffffff&fontSize=65&font=balsamiq" alt="Simranjit Kaur"/>
+  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=pulse&type=slice&color=gradient&gradient=ff66b2,66b2ff&height=380&fontColor=000000&fontSize=100&font=Press+Start+2P" alt="Simranjit Kaur"/>
 </p>
 
 <h3 align="center">A passionate software engineering student</h3>
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.google.com/search?q=pandas+badge&tbm=isch&ved=2ahUKEwj7iKqCq4WGAxWhuokEHf-qDssQ2-cCegQIABAA&oq=pandas+badge&gs_lcp=CgNnbXfSAQgwLjg0Nzk1Nzg3&sclient=img&ei=l7R1Zpi5NqHqseEP_9W62Aw&bih=756&biw=1440#imgrc=150458&imgdii=D14836" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" />
 </p>
 
@@ -70,7 +70,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Simranjit15kaur&theme=darkhub" alt="Simranjit15kaur's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Simranjit15kaur&theme=flat" alt="Simranjit15kaur's GitHub Trophies" />
 </p>
 
 ---
@@ -80,6 +80,12 @@
 <p align="center">
   <img src="https://github.com/Simranjit15kaur/Simranjit15kaur/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
+---
+
+### 💡 Favorite Quote
+
+> "The only way to do great work is to love what you do." - Steve Jobs
 
 ---
 
