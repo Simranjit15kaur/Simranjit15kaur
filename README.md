@@ -1,16 +1,10 @@
+<p align="right">Profile views: <img src="https://komarev.com/ghpvc/?username=Simranjit15kaur&label=Profile%20views&color=0e75b6&style=flat" alt="Simranjit15kaur's profile views"/></p>
+
 # Hi there 👋
 
-<h1 align="center">I'm Simranjit Kaur</h1>
+<h1>Simranjit Kaur</h1>
 
-<h3 align="center">A passionate software engineering student</h3>
-
-<p align="center">
-  <img src="https://media.tenor.com/7oTzD5zB4fMAAAAd/it-crowd-it.gif" alt="Hello IT" width="400"/>
-</p>
-
-<p align="center">
-  💻 Currently working on AI/ML using Python
-</p>
+<h3>Thapar University , Patiala</h3>
 
 <h3 align="center">About Me</h3>
 
@@ -26,18 +20,22 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jazzminegarg&show_icons=true&theme=radical" alt="jazzminegarg's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzminegarg&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Simranjit15kaur&show_icons=true&theme=radical" alt="Simranjit15kaur's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simranjit15kaur&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<h3 align="center">GitHub Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://github.com/Simranjit15kaur/Simranjit15kaur/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <h3 align="center">Connect with me</h3>
