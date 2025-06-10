@@ -27,6 +27,21 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
+<h3 align="center">Projects</h3>
+
+<p align="center">
+  Showcase your most impactful projects here. Each project should have its own well-documented repository.
+  <br><br>
+  - [**Project A: Scalable Recommendation System**](link_to_repo_A)<br>
+    Developed a real-time recommendation engine using Python, Flask, and a distributed caching system (Redis). Implemented collaborative filtering algorithms and optimized query response time by 40% through efficient data retrieval.
+  <br><br>
+  - [**Project B: Cloud-Native API Gateway**](link_to_repo_B)<br>
+    Built a secure and highly available API gateway on Google Cloud Platform (GCP) using Go, Kubernetes, and Istio. Designed for microservices communication with authentication and rate-limiting features.
+  <br><br>
+  - [**Project C: Interactive Data Visualization Tool**](link_to_repo_C)<br>
+    Created a web-based data visualization tool with React and D3.js. Enabled users to upload CSV data and generate customizable interactive charts, demonstrating strong front-end development and data handling skills.
+</p>
+
 <h3 align="center">MY CONTRIBUTIONS</h3>
 
 <p align="center">
