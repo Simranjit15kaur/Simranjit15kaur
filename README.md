@@ -75,14 +75,6 @@
 
 ---
 
-### 🐍 GitHub Contributions
-
-<p align="center">
-  <img src="https://github.com/Simranjit15kaur/Simranjit15kaur/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 ### 💡 Favorite Quote
 
 > "The only way to do great work is to love what you do." - Steve Jobs
