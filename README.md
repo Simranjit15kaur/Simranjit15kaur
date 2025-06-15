@@ -63,7 +63,7 @@
 - [**🏫 College Management System**](https://github.com/Simranjit15kaur/College_management)  
   Built using HTML, CSS,PHP, MySQL | A web-based platform to automate faculty scheduling, attendance tracking, leave management, and salary calculation.
 
-- [**֎ AI-Generated Image and Text Detection System**](https://github.com/Simranjit15kaur/AI_Text_image_detection)  
+- [**👩🏻‍💻 AI-Generated Image and Text Detection System**](https://github.com/Simranjit15kaur/AI_Text_image_detection)  
   AI-generated content detection system capable of analyzing both images and text to assess whether the input is likely to have been produced by artificial intelligence models.
   
 ---
