@@ -51,10 +51,10 @@
 
 > 🔗 Click on project titles to explore repositories.
 
-- [**🕵🏻‍♀️Cheating Detection in Online Interview**](https://github.com/Simranjit15kaur/TOPSIS2)  
+- [**🕵🏻‍♀️Cheating Detection in Online Interview**](https://github.com/Simranjit15kaur/Cheating-Detection)  
   Developed with OpenCV & YOLOv5 |monitor candidates in real-time and detect suspicious behavior indicative of cheating.
 
-- [**📦 Python Package Creation**](https://github.com/Simranjit15kaur/TOPSIS-Simranjit-102216033)  
+- [**📦 Python Package Creation**](https://github.com/Simranjit15kaur/TOPSIS2)  
   Installation : pip install TOPSIS-Simranjit-102216033==0.0.1
 
 - [**🎬 Movie Recommender System**](https://github.com/Simranjit15kaur/MOVIE_RECOMMENDER)  
