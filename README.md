@@ -54,6 +54,9 @@
 - [**🕵🏻‍♀️Cheating Detection in Online Interview**](https://github.com/Simranjit15kaur/Cheating-Detection)  
   Developed with OpenCV & YOLOv5 |monitor candidates in real-time and detect suspicious behavior indicative of cheating.
 
+- [**👩🏻‍💻 AI-Generated Image and Text Detection System**](https://github.com/Simranjit15kaur/AI_Text_image_detection)  
+  AI-generated content detection system capable of analyzing both images and text to assess whether the input is likely to have been produced by artificial intelligence models.
+
 - [**📦 Python Package Creation**](https://github.com/Simranjit15kaur/TOPSIS2)  
   Installation : pip install TOPSIS-Simranjit-102216033==0.0.1
 
@@ -62,9 +65,6 @@
 
 - [**🏫 College Management System**](https://github.com/Simranjit15kaur/College_management)  
   Built using HTML, CSS,PHP, MySQL | A web-based platform to automate faculty scheduling, attendance tracking, leave management, and salary calculation.
-
-- [**👩🏻‍💻 AI-Generated Image and Text Detection System**](https://github.com/Simranjit15kaur/AI_Text_image_detection)  
-  AI-generated content detection system capable of analyzing both images and text to assess whether the input is likely to have been produced by artificial intelligence models.
   
 ---
 
