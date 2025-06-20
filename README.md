@@ -1,7 +1,7 @@
- # Hi there 👋
+ # Hello Friends 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=pulse&type=slice&color=gradient&gradient=ff00ff,00ffff&height=380&fontColor=000000&fontSize=100&font=Press+Start+2P" alt="Simranjit Kaur"/>
+  <img src="https://capsule-render.vercel.app/api?text=Simranjit%20Kaur&animation=pulse&type=slice&color=gradient&gradient=ff00ff,00ffff&height=180&fontColor=000000&fontSize=50&font=Press+Start+2P" alt="Simranjit Kaur"/>
 </p>
 
 <h3 align="center">A passionate software engineering student</h3>
@@ -94,10 +94,6 @@
 
 ### 🤝 Let's Connect!
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:skaur6_be22@thapar.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
