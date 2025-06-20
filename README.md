@@ -58,7 +58,7 @@
   AI-generated content detection system capable of analyzing both images and text to assess whether the input is likely to have been produced by artificial intelligence models.
 
 - [**📦 Python Package Creation**](https://github.com/Simranjit15kaur/TOPSIS2)  
-  Installation : pip install TOPSIS-Simranjit-102216033==0.0.1
+  Installation link: https://pypi.org/project/TOPSIS-Simranjit-102216033/0.0.1/
 
 - [**🎬 Movie Recommender System**](https://github.com/Simranjit15kaur/MOVIE_RECOMMENDER)  
   Python, Pandas, Streamlit, and Scikit-learn| similar movies based on content similarity using NLP.
@@ -79,7 +79,6 @@
 ### 🐍 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simranjit15kaur&show_icons=true&theme=dark&include_all_commits=true" alt="Simranjit15kaur's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simranjit15kaur&layout=compact&theme=dark" alt="Simranjit15kaur's Top Languages"/>
 </p>
 
