@@ -61,7 +61,7 @@
   Installation link: https://pypi.org/project/TOPSIS-Simranjit-102216033/0.0.1/
 
 - [**🛒 Walmart Grocery Product Classifier & Smart Cart System**](https://github.com/Simranjit15kaur/WALMART/tree/main) 
-   (Group project partner- Vansh Harkirat Singh) : (https://www.youtube.com/watch?v=f2x1IA_jRIE)
+   (Group project) : (https://www.youtube.com/watch?v=f2x1IA_jRIE)
   An AI-powered smart grocery cart system that uses deep learning to classify grocery items from images or live webcam input.
 
 - [**🎬 Movie Recommender System**](https://github.com/Simranjit15kaur/MOVIE_RECOMMENDER)  
